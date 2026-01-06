@@ -9,7 +9,6 @@ questions = {
 }
 
 def play(quize:dict) -> int:
-    # score: can't be negative
     score:int = 0
     for question,quize_answer in quize.items():
         print(question)
