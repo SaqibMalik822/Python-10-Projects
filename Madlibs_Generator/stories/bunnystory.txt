@@ -1,0 +1,13 @@
+Story 1: The Bunny's Garden
+[BUNNY_NAME] hopped through the meadow each morning, 
+her soft white fur catching the early sunlight. 
+She had discovered something wonderful behind the old oak tree:
+a forgotten garden where carrots grew wild and sweet.
+For weeks, [BUNNY_NAME] kept her secret close, 
+visiting the garden alone. But one autumn day, 
+she found [FRIEND_BUNNY_NAME] shivering near the meadow's edge, 
+thin and hungry. [BUNNY_NAME] hesitated only a moment before leading her new friend to the hidden garden.
+As they munched carrots together, 
+[BUNNY_NAME] realized the garden's magic had doubled. 
+Not because there was more food, but because joy, 
+like gardens, grows best when shared.
